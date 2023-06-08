@@ -4,9 +4,9 @@ This is a web based application developed for health related telugu based websit
 
 ### This web based application has been developed for the applications of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime,Quess ,Github and Ey.
 
-** Project Link**-https://brave-moss-02a122200.3.azurestaticapps.net/contact.html
+** Project Link**-https://jolly-pebble-096579610.3.azurestaticapps.net
 
-** Project demo video link**-https://youtu.be/AKyd3phdeCg
+** Project demo video link**-
 
 ## Azure technologies used for Project 
 - Static web apps
