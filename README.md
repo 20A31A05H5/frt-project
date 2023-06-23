@@ -23,22 +23,23 @@ This is a web based application developed for health related telugu based websit
 ## Screenshots
 
 
-<img width="960" alt="2023-05-24 (2)" src="https://github.com/chaitanyaram1204/project02/assets/127341000/6e3e6d34-a405-4a23-93f2-331971af6a21">
+<img width="960" alt="2023-05-24 (2)" src="screenshots/screen/Screenshot%20(31).png">
 
 
 
 ### About us-
-<img width="960" alt="2023-05-24 (7)" src="https://github.com/chaitanyaram1204/project02/assets/127341000/89c38519-619a-4c4d-a8e0-d3f9e75c47dc">
+<img width="960" alt="2023-05-24 (7)" src="screenshots/about/Aboutus.png">
 
 
 ### Contact us-
-
-
-
-<img width="960" alt="2023-05-24 (12)" src="https://github.com/chaitanyaram1204/project02/assets/127341000/b48bc02c-2c6f-4455-b45f-58fe53c46c6f">
+ 
+ 
+ <img width="960" alt="2023-05-24 (12)" src="screenshots/contactus/contact.png">
 
 ### Health bot
-<img width="737" alt="image" src="https://github.com/chaitanyaram1204/project02/assets/127341000/19a1b3bc-d27b-45e3-8ac2-8037e82a5800">
+
+<img width="737" alt="image" src="screenshots/healthbot/health.png">
+
 
 
 
